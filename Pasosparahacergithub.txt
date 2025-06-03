@@ -13,3 +13,43 @@ cd Desktop/
 git init
    17  ls -a
 git status
+
+   25  clear
+   26  ls
+   27  nano Guacamole.md
+   28  ls
+   29  git status
+   30  git add Guacamole.md
+   31  git status
+   32  git add Pasosparahacergithub.txt
+   33  git status
+   34  git commit -m "Create initial structure for a guacamole recipe"
+   35  git status
+   36  git log
+   37  nano Guacamole.md
+   38  git status
+   39  git add Guacamole.md
+   40  git status
+   41  clear
+   42  git commit -m "Add ingridient for a basic guacamol"
+   43  git log
+   44  nano Guacamole.md
+   45  git diff
+   46  clear
+   47  git diff HEAD Guacamole.md
+   48  git diff HEAD~1 Guacamole.md
+   49  git status
+   50  git add Guacamole.md
+   51  git commit -m "first steps"
+   52  git diff HEAD~2 Guacamole.md
+   53  git log
+   54  clear
+   55  git log
+   56  git diff b858 Guacamole.md
+   57  cat Guacamole.md
+   58  git log
+   59  git restore -s b858 Guacamole.md
+   60  cat Guacamole.md
+   61  git restore -s d2fbe Guacamole.md
+   62  cat Guacamole.md
+   63  nano Pasosparahacergithub.txt
