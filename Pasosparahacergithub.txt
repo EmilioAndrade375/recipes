@@ -1,0 +1,15 @@
+# Pasos para configurar git 
+
+    3  git config --global user.name "Emilio Andrade"
+    4  git config --global user.email "emilio.andrade375@gmail.com"
+    5  git config --global core.autocrlf input
+    6  git config --global core.editor "nano -w"
+    7  git config --global init.defaultBranch main
+    8  git config --global --edit
+
+cd Desktop/
+   13  mkdir recipes
+   14  cd recipes
+git init
+   17  ls -a
+git status
