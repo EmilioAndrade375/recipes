@@ -7,11 +7,18 @@
     7  git config --global init.defaultBranch main
     8  git config --global --edit
 
+# Crear directorio 
+
 cd Desktop/
    13  mkdir recipes
    14  cd recipes
+# Iniciar git 
+
 git init
    17  ls -a
+
+# ver el estado de git 
+
 git status
 
    25  clear
