@@ -9,5 +9,5 @@
 
 # Video
 
-[![Watch the video](https://www.youtube.com/watch?v=oidUrWmke4g)
+[![Watch the video]](https://www.youtube.com/watch?v=oidUrWmke4g)
 
