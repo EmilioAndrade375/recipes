@@ -11,3 +11,6 @@ output:
 ## Instructions 
 * Mix all with a fork 
 * Before smash avocado 
+* Add Salt and peper
+* Add lemon
+
