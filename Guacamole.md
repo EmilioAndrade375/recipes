@@ -10,3 +10,4 @@ output:
 * salt 
 ## Instructions 
 * Mix all with a fork 
+* Before smash avocado 
